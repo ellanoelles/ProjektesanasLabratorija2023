@@ -22,4 +22,4 @@ Infrastruktūra un skripti, kas nodrošina lietotnes darbību, atrodas servera p
 | --- | ----------- |
 | HTML | CSS |
 | JavaScript | Pārlūks |
-| DViedtālrunis |  |
+| Viedtālrunis |  |
