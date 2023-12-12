@@ -2,7 +2,7 @@
 
 Infrastruktūra un skripti, kas nodrošina lietotnes darbību, atrodas servera pusē. Klienta pusē lietotājiem ir iespēja redzēt ekrānu, kurā redzami datu apstrādes rezultāti un citi lietotāja mijiedarbības ar programmatūras produktu rezultāti.
 
-|Servera puse||
+|Servera puse|dsdssd|
 |-|-|
 
 |Satvars:|Flask|
