@@ -5,12 +5,12 @@ Infrastruktūra un skripti, kas nodrošina lietotnes darbību, atrodas servera p
 |Servera puse|...|
 |-|-|
 
-|Satvars:|Flask|
-|Programmēšanas valoda:|Python|
-|Datu bāze:|SQLite|
-|Tīmekļa serveris:|SimpleHTTPServer|
-|OS:|Windows|
-|Serveris:|Izstrādātaja dators|
+|Satvars|Flask|
+|Programmēšanas valoda|Python|
+|Datu bāze|SQLite|
+|Tīmekļa serveris|SimpleHTTPServer|
+|OS|Windows|
+|Serveris|Izstrādātaja dators|
 
 
 
