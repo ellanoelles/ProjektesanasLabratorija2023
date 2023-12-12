@@ -23,3 +23,7 @@ Infrastruktūra un skripti, kas nodrošina lietotnes darbību, atrodas servera p
 
 
 
+| Syntax | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
