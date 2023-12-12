@@ -15,6 +15,9 @@ Infrastruktūra un skripti, kas nodrošina lietotnes darbību, atrodas servera p
 | Serveris | Izstrādātāja dators |
 
 
+
+
+
 | Klienta puse |  |
 | --- | ----------- |
 | HTML | CSS |
