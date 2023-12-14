@@ -9,7 +9,7 @@ Infrastruktūra un skripti, kas nodrošina lietotnes darbību, atrodas servera p
 | --- | ----------- |
 | Satvars | Flask |
 | Programmēšanas valoda | Python |
-| Datu bāze | SQLite |
+| Datu bāze | Oracle |
 | Tīmekļa serveris | SimpleHTTPServer |
 | OS | Windows |
 | Serveris | Izstrādātāja dators |
